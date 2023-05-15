@@ -41,7 +41,7 @@ public class GitLearn {
                     result = num1 / num2;
                     System.out.println("Result: " + result);
                     break;
-                    case 5:
+                 case 5:System.out.println("wrote in uat branch");
                     
                 case 0:
                     System.out.println("Exiting...");
